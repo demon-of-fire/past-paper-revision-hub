@@ -1,0 +1,13 @@
+﻿.setup-complete.json
+node_modules/
+*.docx
+*.log
+.env
+.DS_Store
+Thumbs.db
+dist/
+installer/build/
+SourceCode-v*.zip
+PastPaperRevisionHubSetup.exe
+PastPaperRevisionHubSetup-LATEST.exe
+installer/
